@@ -31,10 +31,11 @@ Block Explorer: http://party.eosmonitor.io/
 
 ## P2P List:
 
-* p2p.party.eostea.io:56234
-* p2p.dappp.com:4567
+* p2p-peer-address = p2p.party.eostea.io:56234
+* p2p-peer-address = 150.109.43.214:9876
+* p2p-peer-address = p2p.dappp.com:4567
 
 ## HTTP API List:
 
-* api.party.tc.ink:8765
-* rpc.51dapp.org:5678
+* http://api.party.tc.ink:8765
+* http://rpc.51dapp.org:5678
